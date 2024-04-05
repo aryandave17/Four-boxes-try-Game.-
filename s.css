@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+     /* background-color:black;  */
+
+}
+
+ /* h1{
+    color:white;
+}
+
+h2{
+    color:white;
+}  */
+
+.btn{
+    height: 200px;
+    width: 200px;
+    /* border-radius:20%; */
+    border: 5px solid black;
+    margin:0.3rem;  /*attechment*/
+
+}
+
+/* my setting */
+/* 
+      .container{
+    border:8px solid grey;
+    height:485px;
+    width: 500px;
+    margin-left:500px;
+    background-color: black;
+}       */
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+/* Kaam susti me  */
+
+.red{
+    background-color: red;
+    border-top-left-radius:50%;
+    /* border:5px solid grey; */
+
+}
+
+.yellow{
+    background-color: yellow;
+    border-bottom-left-radius:50%;
+    /* border:5px solid grey; */
+
+}
+
+.green{
+    background-color: green;
+    border-top-right-radius:50%;
+    /* border:5px solid grey; */
+
+}
+
+.purple{
+    background-color: purple;
+    border-bottom-right-radius:50%;
+    /* border:5px solid grey; */
+
+}
+
+.flash{
+    background-color:white;
+}
